@@ -1,8 +1,8 @@
-Origin: busmannl30's Repo
+Origin: busmanl30's Repo
 Label: busmanl30's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This repo will have all of busmanl30's projets
+Description: This repo will have all of busmanl30's projects
