@@ -1,0 +1,26 @@
+if [[ $EUID -ne 0 ]]; then
+   echo "ERROR! You are not running as root"
+   echo "Please run as root before using binarycrack" 
+   exit 1
+fi
+
+echo
+echo "Hello and Welcome to busmanl30's Binary Cracker script using Uncrypt11 by shmoo. Please Provide a PID below to get started"
+
+read -p 'PID of Application: ' PID
+echo
+echo "The PID you have selected is ($PID). Type in Y for Yes or Type in N for No"
+echo
+read -p "Are you sure you want to Continue " -n 1 -r 
+echo
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
+    /electra/inject_criticald $PID /Library/MobileSubstrate/DynamicLibraries/uncrypt11.dylib
+    echo
+    echo "Thank you for using Binary Crack"
+fi
+
+if [[ $REPLY =~ ^[Nn]$ ]]
+then
+    exit 
+fi

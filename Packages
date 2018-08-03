@@ -1,0 +1,12 @@
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: busmanl30
+Filename: /binarycrack.deb
+Size: 5522
+MD5sum: ee2826027d80aea217e99fc5b829ab0d
+SHA1: c0ba07efd3d3f5ec2ab3d81317d4614c6d4896ed
+SHA256: 782a1ce9625c2038e47f1fbd3b1d47a02d03ce19b20d8eaba3a9793028581d0d
+Section: Tools
+Description: An easier way to use Uncrpyt11 (It comes with this package your welcome) use cmd binarycrack in an SSH Client to crack a binary!!!
+Author: busmanl30 & shmoo
+Name: binary crack
