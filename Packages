@@ -11,3 +11,17 @@ Section: Tools
 Description: Cracks binaries on ios 11!
 Author: busmanl30 & shmoo
 Name: binary crack
+
+Package: com.busmanl30.callofminizombiecheats
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: busmanl30
+Filename: /comzcheats.deb
+Size: 20634
+MD5sum: 21735e0c7cb7dcc27ebafe2780cc6680
+SHA1: ae1ea75f5e889146b32c2c60f9dd0cf7673e705a
+SHA256: 742fa42bdda2d8a5f6621d119305530ec4e36d9421db28a3a846736e9af876ba
+Section: Cheats
+Description: Cheats for Call of Mini Zombies 2!
+Author: busmanl30 & shmoo
+Name: Call of Mini Zombies 2
