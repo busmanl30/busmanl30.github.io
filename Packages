@@ -15,7 +15,7 @@ Name: binary crack
 Package: com.busmanl30.callofminizombiecheats
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: busmanl30
+Maintainer: www.iOSGods
 Filename: /comzcheats.deb
 Size: 62926
 MD5sum: af3f50386f54bcb702c91785f4866e12
@@ -25,3 +25,17 @@ Section: Cheats
 Description: Cheats for Call of Mini Zombies 2!
 Author: busmanl30
 Name: Call of Mini Zombies 2 Cheats
+
+Package: com.busmanl30.callofminizombiecheats
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: www.iOSGods.com
+Filename: /copsfreehack.deb
+Size: 33440
+MD5sum: 5391180b7a572d29e62f4a091b0e1c42
+SHA1: 47a78fa1d3ab18a04ce6e6405f34ccf1c4b2bd08
+SHA256: fe01e3dd4071687b5a68a6a74b633c9812ae47b55cea5572a4b7fb2a02b69e7f
+Section: Cheats
+Description: Cheats for Critical Ops 
+Author: busmanl30
+Name: Critical Ops Free Hack
